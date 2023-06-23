@@ -1,3 +1,5 @@
 Hi there, this is the first version of this file,
 
 And now I am adding a new line.
+
+Finally this is the third line
