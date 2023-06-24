@@ -1,7 +1,1 @@
-Hi there, this is the first version of this file,
-
-And now I am adding a new line.
-
-Finally this is the third line. I'm adding a new text here.
-
-And that's it. 
+Hi there, this is the first version of this file
