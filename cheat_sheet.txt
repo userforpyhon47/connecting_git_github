@@ -7,6 +7,8 @@
 7. git confing --global user.name "name" #configure global name
 8. git rm --cached file_name #Untracks file_name from local repo
 9. git reset "discards changes in stating area
+9. git reset hash_num --soft #Reset files and content to specific commit with hash_num, all modifications are staged
+9 git reset hash_num --hard #Reset files and content to specific commit with hash_num, cannot reverse
 8. git branch branch_name #Creates branch named branch_name
 9. git branch -d branch_name #Deletes branch_name
 9. git checkout branch_name #Changes to branch named branch_name
