@@ -18,5 +18,6 @@
 14. git pull origin branch_name #Pulls branch_name from remote repo to local
 15. git push origin branch_name #Push branch_name from local to remote repo
 17. git push origin branch_name --tags #Push branch_name from local to remote with tags
+18. git branch -M main #Change current master branch name to main
 
 
