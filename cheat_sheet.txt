@@ -1,0 +1,22 @@
+1. git add . # Add current directory to staging
+2. git commit -am "some message" # commits changes to the working branch
+3. git status #check changes in tracked files
+4. git log --stat #show log status of the repo and current branch
+5. git config --global alias.slog "log --graph --all --decorate --oneline" #create alias slog for visual log
+6. git confing --global user.email "some_exame@gmail.com" #configure global email
+7. git confing --global user.name "name" #configure global name
+8. git rm --cached file_name #Untracks file_name from local repo
+9. git reset "discards changes in stating area
+8. git branch branch_name #Creates branch named branch_name
+9. git branch -d branch_name #Deletes branch_name
+9. git checkout branch_name #Changes to branch named branch_name
+10. git tag -a tag_name -m "message" hash_num #Add a tag with name tag_name and message "message" to specific commit hash_num
+11. git tag -d tag_name #deletes tag
+12. git push origin :refs/tag/tag_name #Updates tag from local to repo
+13 git remote add origin https...#connects with remote repo
+14. git clone url_repo #clones remote repo to local
+14. git pull origin branch_name #Pulls branch_name from remote repo to local
+15. git push origin branch_name #Push branch_name from local to remote repo
+17. git push origin branch_name --tags #Push branch_name from local to remote with tags
+
+
