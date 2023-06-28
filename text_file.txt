@@ -7,3 +7,5 @@ Finally this is the third line. I'm adding a new text here.
 And that's it. 
 
 Master 1
+
+Master 2
